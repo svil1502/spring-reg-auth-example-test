@@ -1,0 +1,10 @@
+/Users/notarius71073/spring-reg-auth-example/src/main/java/com/boots/controller/RegistrationController.java
+/Users/notarius71073/spring-reg-auth-example/src/main/java/com/boots/config/MvcConfig.java
+/Users/notarius71073/spring-reg-auth-example/src/main/java/com/boots/entity/User.java
+/Users/notarius71073/spring-reg-auth-example/src/main/java/com/boots/repository/RoleRepository.java
+/Users/notarius71073/spring-reg-auth-example/src/main/java/com/boots/repository/UserRepository.java
+/Users/notarius71073/spring-reg-auth-example/src/main/java/com/boots/entity/Role.java
+/Users/notarius71073/spring-reg-auth-example/src/main/java/com/boots/controller/AdminController.java
+/Users/notarius71073/spring-reg-auth-example/src/main/java/com/boots/Application.java
+/Users/notarius71073/spring-reg-auth-example/src/main/java/com/boots/config/WebSecurityConfig.java
+/Users/notarius71073/spring-reg-auth-example/src/main/java/com/boots/service/UserService.java
